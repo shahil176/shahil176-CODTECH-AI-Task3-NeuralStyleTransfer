@@ -37,3 +37,7 @@ The system successfully generates a stylized image by combining the content of o
 Example Output:
 
 Content Image + Style Image → Output Stylized Image
+<img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/5a3b57c2-1f51-43a6-bade-1431cf79d0e5" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/36dbf2bf-7987-41ec-b910-6bcb4097bff7" />
+<img width="1600" height="1333" alt="Image" src="https://github.com/user-attachments/assets/8417d6a8-b306-4397-9495-7f3153bfa5e3" />
+<img width="1600" height="715" alt="Image" src="https://github.com/user-attachments/assets/b9775108-65f0-4b68-83cc-d68f1d875c1c" />
